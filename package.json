@@ -1,0 +1,20 @@
+{
+  "name": "vbb-json",
+  "version": "0.0.0",
+  "description": "VBB API with a JSON interface",
+  "main": "index.js",
+  "dependencies": {
+      "async": "~0.1.18",
+      "iconv": "1.2.4",
+      "request": "2.12.0",
+      "xmldom": "0.1.13",
+      "xpath.js": "0.0.3",
+      "express": "3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Stefan Wehrmeyer",
+  "license": "BSD"
+}
