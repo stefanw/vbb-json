@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?>                                                                                                                                                                                        
+<ResC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://demo.hafas.de/xml/vbb/dai/hafasXMLInterface.xsd" ver="1.1" prod="5.31.VBB.4.8.10 [Nov 21 2012]" lang="DE">                       
+  <LocValRes flag="FINAL" id="L">                                                                                                                                                                                                  
+    <Station name="Potsdam Hbf (S)" score="100" externalId="009230999#86" externalStationNr="009230999" type="WGS84" x="13067169" y="52390930"/>                                                                                   
+    <Station name="Potsdam, Alter Markt" score="97" externalId="009230018#86" externalStationNr="009230018" type="WGS84" x="13059303" y="52395344"/>                                                                               
+    <Station name="Potsdam, Lange Br?cke" score="97" externalId="009230097#86" externalStationNr="009230097" type="WGS84" x="13063618" y="52392171"/>                                                                              
+    <Station name="Potsdam, Magnus-Zeller-Platz" score="97" externalId="009230031#86" externalStationNr="009230031" type="WGS84" x="13091332" y="52375127"/>                                                                       
+    <Station name="Potsdam, Platz der Einheit/West" score="97" externalId="009230014#86" externalStationNr="009230014" type="WGS84" x="13058000" y="52398706"/>                                                                    
+    <Station name="Potsdam, Kunersdorfer Str." score="96" externalId="009230067#86" externalStationNr="009230067" type="WGS84" x="13078495" y="52380530"/>                                                                         
+    <Station name="Potsdam, Sporthalle" score="96" externalId="009230066#86" externalStationNr="009230066" type="WGS84" x="13075367" y="52382642"/>                                                                                
+    <Station name="Potsdam, Waldstr./Horstweg" score="96" externalId="009230021#86" externalStationNr="009230021" type="WGS84" x="13082900" y="52377527"/>                                                                         
+    <Station name="Potsdam, Bisamkiez" score="96" externalId="009230034#86" externalStationNr="009230034" type="WGS84" x="13101301" y="52373321"/>                                                                                 
+    <Station name="Potsdam, Friedh?fe" score="96" externalId="009230065#86" externalStationNr="009230065" type="WGS84" x="13071735" y="52385932"/>                                                                                 
+  </LocValRes>
+</ResC> 

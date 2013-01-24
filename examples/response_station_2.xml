@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<ResC lang="DE" prod="5.31.VBB.4.8.10   [Nov 21 2012]" ver="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://demo.hafas.de/xml/vbb/dai/hafasXMLInterface.xsd">
+  <LocValRes flag="MIXED" id="L">
+    <Station externalId="009110508#86" externalStationNr="009110508" name="Marienburger Str. (Berlin)" score="100" type="WGS84" x="13422090" y="52535540"/>
+    <ReqLoc output="10405 Berlin-Prenzlauer Berg, Marienburger Str." refine="007702004#103#Marienburger" score="98" type="ADR"/>
+    <ReqLoc output="14055 Berlin-Charlottenburg, Marienburger Allee" refine="007702243#103#Marienburger" score="98" type="ADR"/>
+                                                             
+    <ReqLoc output="14943 Luckenwalde, Marienburger Str." refine="007735044#103#Marienburger" score="98" type="ADR"/>
+                                                                        
+    <ReqLoc output="12279 Berlin-Marienfelde, Klausenburger Pfad" refine="007700271#103#Marienburger" score="90" type="ADR"/>
+                                                                
+    <Poi name="Brandenburg, Marienbad" score="74" type="WGS84" x="12542010" y="52415911"/>
+                                                                                                   
+    <Poi name="Brandenburg, Sankt-Marien-Krankenhaus" score="74" type="WGS84" x="12551188" y="52414365"/>
+                                                                                    
+    <ReqLoc output="12109 Berlin-Mariendorf, Wolfsburger Weg" refine="007710363#103#Marienburger" score="74" type="ADR"/>
+                                                                    
+    <ReqLoc output="12279 Berlin-Marienfelde, Pressburger Pfad" refine="007710418#103#Marienburger" score="74" type="ADR"/>
+                                                                  
+    <ReqLoc output="12279 Berlin-Marienfelde, Sch?ssburger Weg" refine="007709391#103#Marienburger" score="74" type="ADR"/>
+                                                                
+  </LocValRes>
+                                                                                                                                                                         
+</ResC>
